@@ -1,0 +1,1 @@
+var holaMundo = console.log("Hola Mundo");
